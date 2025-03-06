@@ -1,4 +1,4 @@
-# Automatizador-de-Documentos-para-Professores-da-PEI-SP // Document-Automatizer-For-Teachers-In-The-"Programa-de-Ensino-Integral"-At-São-Paulo-State
+# Automatizador-de-Documentos-para-Professores-da-PEI-SP // Document-Automation-Tool-For-Teachers-In-The-"Programa-de-Ensino-Integral"-At-São-Paulo-State
 
 O projeto a seguir tem como objetivo automatizar os documentos Plano de Aula Quinzenal e Agenda Semanal estipulados pelo Programa de Ensino Integral da Secretaria da Educação do Estado de São Paulo
 
@@ -10,9 +10,9 @@ Prevê-se que o usuário tenha acesso ao Escopo, o qual deve ser salvo, juntamen
 
 //
 
-The following project has the ultimate goal to automatize the Plano de Aula Quinzenal and Agenda Semanal, stipulated by the Programa de Ensino Integral from the Secretaria da Educação do Estado de São Paulo.
+The following project has the ultimate goal to automate the Plano de Aula Quinzenal and Agenda Semanal, stipulated by the Programa de Ensino Integral from the Secretaria da Educação do Estado de São Paulo.
 
-With Python and the docx and openpyxl, the project allows that the documents already quoted may be linked to the Escopo, from where the asked contents will come, and then, be automatized, in a way that the teacher will not need to build them manually, but be able to use the invested time in other things.
+With Python and the docx and openpyxl, the project allows that the documents already quoted may be linked to the Escopo, from where the asked contents will come, and then, be automated, in a way that the teacher will not need to build them manually, but will be able to use the invested time in other tasks.
 
 The code was built following the schedule of an English teacher, which learns the subject to the classes: 7 A/B/C, 8 A/B/C/D/E and 9 A/B/C/D/E.
 
