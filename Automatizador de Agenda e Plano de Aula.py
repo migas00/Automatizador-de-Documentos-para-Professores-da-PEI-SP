@@ -3,7 +3,7 @@ from docx import Document
 
 # Here it will start loading the Files and Create the Documents
 
-wb = load_workbook('2. Anos Finais - Escopo-sequência 2025.xlsx') # here it will load the Escopo file
+wb = load_workbook('Anos Finais - Escopo sequência 2025.xlsx') # here it will load the Escopo file
 ws = wb['Língua Inglesa'] # here it will load the subject sheet
 
 # A few inputs
