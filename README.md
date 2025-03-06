@@ -10,7 +10,7 @@ Prevê-se que o usuário tenha acesso ao Escopo, o qual deve ser salvo, juntamen
 
 //
 
-The following project has the ultimate goal to automate the Plano de Aula Quinzenal and Agenda Semanal, stipulated by the Programa de Ensino Integral from the Secretaria da Educação do Estado de São Paulo.
+The following project has the main goal to automate the Plano de Aula Quinzenal and Agenda Semanal, stipulated by the Programa de Ensino Integral from the Secretaria da Educação do Estado de São Paulo.
 
 With Python and the docx and openpyxl, the project allows that the documents already quoted may be linked to the Escopo, from where the asked contents will come, and then, be automated, in a way that the teacher will not need to build them manually, but will be able to use the invested time in other tasks.
 
